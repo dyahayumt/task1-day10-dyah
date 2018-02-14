@@ -1,0 +1,15 @@
+.message, .success, .error, .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333; }
+
+.success {
+  border-color: pink; }
+
+.error {
+  border-color: black; }
+
+.warning {
+  border-color: black; }
+
+/*# sourceMappingURL=inheritance.css.map */

@@ -1,0 +1,10 @@
+.box {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+  border-width: 20px;
+  border-style: solid;
+  border-color: #ff00ff; }
+
+/*# sourceMappingURL=mixins.css.map */
